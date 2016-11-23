@@ -1,0 +1,84 @@
+body {
+    background-image: url(../imgs/ed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    position: relative;
+    color: #B15869;
+    font-family: bungee inline, monospace;
+    font-size: 2em;
+}
+
+h3{
+    position: relative;
+    font-family: delius unicase, monospace;
+    color:#7b5d3a;
+    width: 350px;
+    lefT:3%
+}
+ul{
+    position: relative;
+    width: 200px;
+    display: flex;
+    left: 50%;
+}
+li {
+    position: relative;
+    display: flex;
+    color: green;
+    font-family: delius unicase, monospace;
+}
+
+#view{
+    position: relative;
+    left:5px;
+}
+
+p {
+    font-family: delius unicase, monospace;
+    font-size: 2em;
+    color: #216777;
+}
+form{
+    position: relative;
+    width: 500px;
+    background-image: url(../imgs/abbey-cowboy-road.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius:10px;
+    padding: 5px;
+}
+
+input {
+    position: relative;
+    display: inline-block;
+    flex-wrap: wrap;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid grey;
+    background-color: darkslategray;
+    color: orangered;
+    margin: 5px;
+    left:10%;
+    
+}
+#yet{
+    position: relative;
+    left:30%;
+}
+
+#submit{
+    position: relative;
+    top:50px;
+    left:-37%;
+    color:#fd7f00;
+}
+#submit:hover{
+    position: relative;
+    top:50px;
+    right:7%;
+    color:#d47d16;
+    background-color: #2c5674
+}
